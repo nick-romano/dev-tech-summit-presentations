@@ -33,10 +33,6 @@ jobs:
         run: |
           npx slidev build --base /${{github.event.repository.name}}/2025/under-the-hood/ --out ../../dist/2025/under-the-hood
 
-      - name: Collect build outputs
-        run: |
-          mv -f 2024 dist/2024
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

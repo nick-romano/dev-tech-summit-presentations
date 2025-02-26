@@ -37,13 +37,13 @@ layout: intro
   <div class="bg-gray-500/50 p-4 rounded-lg">
     <h2 class="text-2xl font-bold">Before</h2>
     <p class="text-lg">A single monolithic library</p>
-    <img src="../images/before.png" class="object-fit rounded-lg overflow-hidden"></img>
+    <img src="./images/before.png" class="object-fit rounded-lg overflow-hidden"></img>
   </div>
   <div>
   <div class="bg-gray-500/50 p-4 rounded-lg">
     <h2 class="text-2xl font-bold">After</h2>
     <p class="text-lg">A collection of packages</p>
-    <img src="../images/after.png" class="object-fit rounded-lg overflow-hidden"></img>
+    <img src="./images/after.png" class="object-fit rounded-lg overflow-hidden"></img>
   </div>
   </div>
 </div>
