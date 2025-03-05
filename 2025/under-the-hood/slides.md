@@ -17,6 +17,7 @@ is: feedback
 
 ---
 layout: intro
+is: section
 ---
 
 # Code <br/> Metamorphosis:
@@ -137,6 +138,28 @@ layout: intro
 
 # Final notes
 
+---
+layout: intro
+is: section
+---
+
+# Part 2
+
+1. From Jenkins to GitHub Actions
+2. The road to strict null enabled public typings
+3. Performance insights in 3D
+
+---
+src: ./pages/2.1.jenkins-to-gha.md
+---
+
+---
+src: ./pages/2.2.strict-null-enabled-typings.md
+---
+
+---
+src: ./pages/2.3.performance-insights-3d.md
+---
 
 ---
 src: ../.meta/footer.md

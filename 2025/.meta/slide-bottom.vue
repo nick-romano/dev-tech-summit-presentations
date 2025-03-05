@@ -12,7 +12,7 @@
   <img
     alt=""
     src="https://github.com/Esri/reveal.js/blob/dev-summit-2025.1/img/2025/dev/4.png?raw=true"
-    v-show="$frontmatter.layout === 'intro'"
+    v-show="$frontmatter.is === 'section'"
   />
   <img
     alt=""
