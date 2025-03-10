@@ -17,6 +17,7 @@ is: feedback
 
 ---
 layout: intro
+is: section
 ---
 
 # Code <br/> Metamorphosis:
@@ -360,7 +361,7 @@ graph TD
 
 ---
 layout: iframe
-url: https://astexplorer.net/#/gist/8157691b1de8410e88b876ed3e1db66a/69b4b841e6583e7d23616179c2af548e4f8480a3
+url: https://astexplorer.net/#/gist/8157691b1de8410e88b876ed3e1db66a/5bf63024ba4c55b85a5f05b1f004e2d0f8e4a79a
 
 ---
 
@@ -450,6 +451,28 @@ layout: center
 <br/><br/><br/><br/>
 > ## Modern web development isn't just writing code - it's shepherding that code through multiple transformation stages
 
+---
+layout: intro
+is: section
+---
+
+# Part 2
+
+1. From Jenkins to GitHub Actions
+2. The road to strict null enabled public typings
+3. Performance insights in 3D
+
+---
+src: ./pages/2.1.jenkins-to-gha.md
+---
+
+---
+src: ./pages/2.2.strict-null-enabled-typings.md
+---
+
+---
+src: ./pages/2.3.performance-insights-3d.md
+---
 
 ---
 src: ../.meta/footer.md
