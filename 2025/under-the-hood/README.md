@@ -9,7 +9,6 @@ Where: Primrose B | Palm Springs Convention Center
 Presenters: Nick Romano & Jesse van den Kieboom
 
 Presented at [Esri Developer Summit 2025](https://devtechsummit2025.esri.com/).
-=
 
 ## TODO
 
