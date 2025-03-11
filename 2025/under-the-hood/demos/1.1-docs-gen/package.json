@@ -1,0 +1,17 @@
+{
+  "name": "1.1-docs-gen",
+  "version": "1.0.0",
+  "description": "A package that demoes generating a custom elements manifest from a web component\"",
+  "main": "index.js",
+  "scripts": {
+    "generate-ast": "tsx ./scripts/generate-ast.ts",
+    "generate-manifest": "tsx ./scripts/generate-manifest.ts"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "custom-elements-manifest": "^2.1.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
