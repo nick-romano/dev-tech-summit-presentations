@@ -4,7 +4,7 @@
   "description": "A package that demoes generating a custom elements manifest from a web component\"",
   "main": "index.js",
   "scripts": {
-    "generate-ast": "tsx ./scripts/generate-ast.ts",
+    "generate-ast": "tsx ./scripts/create-ast.ts",
     "generate-manifest": "tsx ./scripts/generate-manifest.ts"
   },
   "author": "",

@@ -2,8 +2,14 @@
 titleTemplate: '%s'
 author: Jesse van den Kieboom, Nick Romano
 mdc: true
-colorSchema: dark
+colorSchema: light
 ---
+
+<style>
+  body {
+    color: white !important;
+  }
+</style>
 
 ## ArcGIS Maps SDK for JavaScript: <br/> Under the Hood
 - Part 1: Code Metamorphosis: How Our SDK Transforms <br/> Through Multiple Compilation Stages
